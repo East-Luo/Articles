@@ -4,5 +4,6 @@
 
 ## btw,i use Arch
 
-![opps没加载出来](https://moegirl.uk/images/a/af/Archlinux%E5%A8%98%E4%BA%BA%E8%AE%BE%E5%9B%BE.jpg)
+![Archlinux娘](Archlinux.jpg)
+
 2026-2-17
