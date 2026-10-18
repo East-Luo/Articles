@@ -1,6 +1,7 @@
 {
   "version": 1,
   "articles": [
+    "0/guide.md",
     "1/milestone.md"
   ]
 }
