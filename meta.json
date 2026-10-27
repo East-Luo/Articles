@@ -1,7 +1,13 @@
 {
-  "version": 1,
+  "version": 2,
   "articles": [
-    "0/guide.md",
-    "1/milestone.md"
+    {
+      "id": 1,
+      "path": "0/guide.md"
+    },
+    {
+      "id": 2,
+      "path": "1/milestone.md"
+    }
   ]
 }
